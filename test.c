@@ -8,5 +8,6 @@ int main(void){
     b = a * i;
     printf("%d\n", b);
   }
+  printf("end\n");
   return 0;
 }
